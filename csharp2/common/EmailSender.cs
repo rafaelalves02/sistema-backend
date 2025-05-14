@@ -8,8 +8,8 @@ namespace csharp2.common
         public void EnviarEmail(string assunto, string corpo, string emailDeDestino)
         {
             //dispara email
-            var fromEmail = "rafaelalvesdecarvalho35@gmail.com";
-            var fromPassword = "RR333724DD";
+            var fromEmail = "";
+            var fromPassword = "";
             var fromHost = "smtp.gmail.com";
             var fromPort = 587;
 
