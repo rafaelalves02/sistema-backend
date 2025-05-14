@@ -1,2 +1,5 @@
-#ignorando a pasta do visual studio
+
 .vs/
+/csharp2/bin/
+/csharp2/obj
+/csharp2/csharp2.csproj.user
